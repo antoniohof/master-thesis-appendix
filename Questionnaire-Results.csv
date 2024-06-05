@@ -1,0 +1,66 @@
+Timestamp;Participant ID;Type of shadow in virtual reality;Duration;I agree to share my data (movement, eye tracking and questionnaire) for the study;Age;Gender;Have you used VR applications before?;Do you play games in VR?;Do you wear glasses? (normal glasses);Do you own a VR headset?;INV1: How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds, room temperature, other people, etc.)?;REAL1: How real did the virtual world seem to you?;"SP4: I had a sense of acting in the virtual space, rather than operating something from outside.
+ ";"REAL2: How much did your experience in the virtual environment seem consistent with your real world experience ?
+ ";REAL3: How real did the virtual world seem to you?;SP3: I did not feel present in the virtual space.;INV2: I was not aware of my real environment.;"G1: In the computer generated world I had a sense of ""being there""";SP1: Somehow I felt that the virtual world surrounded me.;SP5: I felt present in the virtual space.;INV3: I still paid attention to the real environment.;REAL4: The virtual world seemed more realistic than the real world.;SP2: I felt like I was just perceiving pictures.;INV4: I was completely captivated by the virtual world.;Do you have additional comments?
+6/29/2023 12:13:02;2;AVATAR;117;Yes;30;Male;Yes;No;No;No;3;2;2;2;2;5;5;6;5;5;4;2;3;2;
+6/29/2023 12:25:26;2;KINECT;65;Yes;30;Male;Yes;No;No;No;4;2;2;4;4;6;2;5;4;6;5;1;4;4;
+6/29/2023 12:31:13;2;NO;55;Yes;30;Male;Yes;No;No;No;4;2;2;5;4;6;5;5;4;6;4;2;3;5;
+6/29/2023 13:34:36;3;NO;49;Yes;31;Male;Yes;No;Yes;No;6;3;5;2;2;5;5;5;6;6;1;2;2;4;
+6/29/2023 13:40:52;3;KINECT;83;Yes;31;Male;Yes;No;Yes;No;4;4;5;4;4;4;4;4;5;5;3;2;2;2;
+6/29/2023 13:44:54;3;AVATAR;46;Yes;31;Male;Yes;No;Yes;No;4;3;5;5;2;5;2;4;4;4;2;5;3;4;
+6/29/2023 15:10:04;4;KINECT;68;Yes;34;Male;Yes;Yes;No;Yes;2;4;5;2;2;5;2;4;4;4;5;2;3;2;
+6/29/2023 15:13:52;4;NO;39;Yes;34;Male;Yes;Yes;No;Yes;3;5;4;3;2;4;2;4;4;4;4;2;3;2;
+6/29/2023 15:17:56;4;AVATAR;55;Yes;34;Male;Yes;Yes;No;Yes;3;4;4;3;2;5;2;4;4;4;5;2;3;3;
+6/29/2023 15:42:58;5;NO;153;Yes;29;Male;Yes;No;No;No;5;5;3;1;2;1;3;2;4;2;2;1;5;1;
+6/29/2023 15:48:52;5;AVATAR;102;Yes;29;Male;Yes;No;No;No;5;5;3;2;1;2;5;4;5;4;2;1;2;2;with thet shadow is even weirder. but i had a greater understanding of me as a character in the virtual world. 
+6/29/2023 15:55:40;5;KINECT;125;Yes;29;Male;Yes;No;No;No;5;5;4;2;1;5;2;5;4;5;2;1;3;3;the resolution of the shadows took away from the experience, but the fact that i felt aware of my real body inside the virtual space gave me another understand of miyself as a character in the 3d enveiroment.
+6/29/2023 16:11:13;6;KINECT;118;Yes;26;Male;Yes;Yes;Yes;No;2;5;4;5;4;4;3;5;4;4;5;1;1;3;
+6/29/2023 16:16:15;6;AVATAR;82;Yes;26;Male;Yes;Yes;Yes;No;5;5;5;2;3;2;5;3;4;4;5;1;2;2;
+6/29/2023 16:23:25;6;NO;45;Yes;26;Male;Yes;Yes;Yes;No;6;2;4;2;2;5;2;2;3;2;6;1;2;1;
+6/29/2023 16:42:39;7;AVATAR;153;Yes;27;Female;Yes;No;No;No;2;3;5;2;4;4;4;6;6;4;4;1;2;4;I am quite sceptical to VR since it is too far away from the real feeling but this VR was pretty sensitive than others I have tried. 
+6/29/2023 16:48:07;7;NO;105;Yes;27;Female;Yes;No;No;No;3;4;5;3;4;3;4;6;4;3;3;3;3;4;
+6/29/2023 16:55:06;7;KINECT;123;Yes;27;Female;Yes;No;No;No;3;3;5;4;3;4;3;6;6;5;4;2;2;5;
+6/29/2023 17:10:08;8;KINECT;85;Yes;27;Female;Yes;No;No;No;5;3;4;3;3;5;5;5;5;5;3;2;2;5;
+6/29/2023 17:16:55;8;NO;44;Yes;27;Female;Yes;No;No;No;2;4;4;2;2;2;2;2;3;2;5;1;5;2;
+6/29/2023 17:27:42;8;AVATAR;43;Yes;27;Female;Yes;No;No;No;2;3;5;5;2;4;2;4;5;5;4;2;3;3;
+6/29/2023 17:34:34;9;AVATAR;66;Yes;32;Female;Yes;No;No;No;3;3;2;2;2;2;3;4;5;5;4;2;4;3;
+6/29/2023 17:39:15;9;KINECT;60;Yes;32;Female;Yes;No;No;No;2;4;5;4;4;4;2;5;5;4;4;2;4;3;
+6/29/2023 17:43:34;9;NO;59;Yes;32;Female;Yes;No;No;No;4;2;5;4;3;5;4;5;5;5;3;2;2;3;
+6/29/2023 18:04:58;10;KINECT;156;Yes;23;Female;Yes;No;Yes;No;5;4;4;5;2;5;4;4;6;6;1;1;1;6;nice
+6/29/2023 18:10:09;10;NO;86;Yes;23;Female;Yes;No;Yes;No;3;4;6;2;2;6;2;2;5;4;3;2;2;6;mmh
+6/29/2023 18:15:45;10;AVATAR;108;Yes;23;Female;Yes;No;Yes;No;4;2;4;4;5;4;4;4;4;4;5;1;1;6;funny
+6/30/2023 14:06:04;11;AVATAR;111;Yes;36;Male;No;No;Yes;No;2;3;5;3;2;5;2;6;5;5;3;1;3;3;I felt disintegration when my gestures doesn't match to grab objects in the virtual world.
+6/30/2023 14:10:19;11;NO;65;Yes;36;Male;No;No;No;No;4;4;5;4;3;4;3;4;4;5;3;2;2;4;
+6/30/2023 14:15:03;11;KINECT;65;Yes;36;Male;No;No;Yes;No;4;3;4;2;3;4;3;4;4;4;3;2;2;4;
+6/30/2023 14:58:13;12;KINECT;193;Yes;29;Female;Yes;No;Yes;No;2;6;4;4;2;2;2;4;2;4;5;1;5;2;
+6/30/2023 15:05:36;12;AVATAR;61;Yes;29;Female;Yes;No;Yes;No;4;3;4;4;1;4;2;2;3;2;5;1;5;2;
+6/30/2023 15:18:57;12;NO;85;Yes;29;Female;Yes;No;Yes;No;1;6;3;2;1;4;1;3;1;2;6;1;5;2;
+6/30/2023 15:26:51;13;NO;138;Yes;33;Female;Yes;No;No;No;6;3;6;3;2;4;1;4;4;4;6;1;5;1;
+6/30/2023 15:33:17;13;AVATAR;90;Yes;33;Female;Yes;No;No;No;6;1;4;3;2;3;3;4;5;3;6;1;3;1;
+6/30/2023 15:38:15;13;KINECT;90;Yes;33;Female;Yes;No;No;No;6;2;6;3;1;3;1;4;4;3;6;1;3;1;
+6/30/2023 15:48:02;14;NO;145;Yes;27;Female;Yes;No;Yes;No;2;3;5;4;3;5;3;4;4;3;5;2;2;4;
+6/30/2023 15:55:05;14;KINECT;66;Yes;27;Female;Yes;No;Yes;No;4;3;5;4;5;5;3;4;5;4;5;2;3;4;
+6/30/2023 16:01:45;14;AVATAR;123;Yes;27;Female;Yes;No;Yes;No;4;5;5;4;4;6;3;5;5;5;4;2;2;5;gender shadow didnt match
+6/30/2023 16:22:56;15;AVATAR;142;Yes;28;Female;No;No;Yes;No;3;5;4;3;1;5;2;4;5;4;5;1;3;4;good luck
+6/30/2023 16:29:24;15;KINECT;91;Yes;28;Female;No;No;Yes;No;2;5;3;2;2;5;1;4;5;4;6;1;2;5;
+6/30/2023 16:35:17;15;NO;77;Yes;28;Female;No;No;No;No;2;5;4;2;3;2;5;3;5;4;6;1;3;3;
+6/30/2023 16:43:21;16;AVATAR;135;Yes;26;Male;Yes;No;No;No;2;3;5;3;3;4;3;2;2;3;3;1;5;3;
+6/30/2023 16:47:09;16;NO;81;Yes;26;Male;Yes;No;No;No;2;4;5;3;2;2;2;2;2;2;4;2;5;2;
+6/30/2023 16:50:39;16;KINECT;44;Yes;26;Male;Yes;No;No;No;2;5;6;2;2;2;2;2;2;2;3;2;5;2;
+6/30/2023 16:59:50;17;KINECT;119;Yes;29;Female;Yes;No;No;No;2;3;4;2;1;1;4;3;4;2;4;1;2;2;I am not so much aware of the real surroundings but at the same time its very hard to feel Im in the virtual world. 
+6/30/2023 17:05:26;17;AVATAR;103;Yes;29;Female;Yes;No;No;No;5;5;2;2;1;2;4;2;3;2;4;1;2;2;
+6/30/2023 17:10:04;17;NO;66;Yes;29;Female;Yes;No;No;No;4;5;2;2;1;3;2;2;4;2;4;1;3;1;
+6/30/2023 17:34:22;18;KINECT;60;Yes;29;Male;Yes;No;Yes;No;5;3;3;5;4;4;5;4;3;4;3;1;4;2;
+6/30/2023 17:42:35;18;NO;54;Yes;29;Male;Yes;No;Yes;No;5;4;4;5;2;4;5;5;5;5;4;3;4;2;
+6/30/2023 17:47:21;18;AVATAR;63;Yes;29;Male;Yes;No;Yes;No;3;5;4;4;2;4;4;4;4;4;2;2;4;2;
+6/30/2023 17:56:46;19;NO;140;Yes;30;Male;Yes;No;Yes;No;4;2;4;4;4;4;4;4;4;4;3;4;2;4;
+6/30/2023 18:01:58;19;AVATAR;102;Yes;30;Male;Yes;No;Yes;No;4;3;4;4;4;4;4;4;4;4;3;4;2;4;
+6/30/2023 18:08:02;19;KINECT;87;Yes;30;Male;Yes;No;Yes;No;5;4;4;4;3;4;4;4;4;4;3;4;2;4;
+6/30/2023 18:26:10;20;NO;127;Yes;30;Female;Yes;No;Yes;No;4;3;6;3;3;6;3;6;6;6;5;1;1;3;
+6/30/2023 18:31:14;20;KINECT;63;Yes;30;Female;Yes;No;Yes;No;5;3;5;3;1;6;1;4;6;4;4;1;1;3;
+6/30/2023 18:36:32;20;AVATAR;60;Yes;30;Female;Yes;No;Yes;No;3;3;6;2;2;5;1;6;6;6;4;1;1;5;
+6/30/2023 18:42:35;21;AVATAR;77;Yes;27;Female;Yes;No;No;No;4;2;6;5;3;5;5;5;5;5;3;2;2;4;
+6/30/2023 18:46:58;21;KINECT;80;Yes;27;Female;Yes;No;No;No;4;3;5;5;4;5;3;5;5;5;4;2;2;3;
+6/30/2023 18:52:13;21;NO;67;Yes;27;Female;Yes;No;No;No;3;3;5;5;3;5;5;5;5;5;4;3;2;4;
+6/30/2023 19:03:42;22;NO;72;Yes;33;Female;Yes;No;Yes;No;3;3;5;3;2;5;2;5;5;5;4;2;6;5;
+6/30/2023 19:10:04;22;KINECT;101;Yes;33;Female;Yes;No;Yes;No;2;5;5;2;1;5;2;6;6;6;5;1;1;5;
+6/30/2023 19:15:03;22;AVATAR;112;Yes;33;Female;Yes;No;Yes;No;4;3;5;3;1;5;2;5;4;5;5;1;1;6;
